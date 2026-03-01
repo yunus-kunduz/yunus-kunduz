@@ -1,14 +1,18 @@
-# Hi there, I'm Yunus Kunduz 👋
+#              Hi there, I'm Yunus Kunduz 👋
 
 **Embedded Systems Engineering Candidate | Hardware & Software Co-Design**
 
 I am a passionate engineering student focused on bridging the gap between hardware constraints and software architecture. My primary areas of interest include **Automotive Electronics, Defense Technologies, and Real-Time Operating Systems (RTOS)**. I enjoy building systems from the ground up, from bare-metal programming and PCB design to industrial communication protocols.
+
+---
 
 ### 🔭 What I'm currently working on:
 - 🎓 Studying **Electrical and Electronics Engineering** at Necmettin Erbakan University, alongside **Computer Programming** at Anadolu University to strengthen my software architecture skills.
 - 🚀 Developing the embedded software and hardware for an autonomous air defense system for **TEKNOFEST**.
 - 🎥 Running an educational YouTube channel, **CozumLab**, where I teach "Embedded Systems Design" courses through hands-on problem solving.
 - 🌍 Previously volunteered with **AIESEC in Tunisia**, teaching Arduino and basic electronics to autistic children.
+
+---
 
 ### 🛠️ Tech Stack & Tools
 
@@ -21,6 +25,8 @@ I am a passionate engineering student focused on bridging the gap between hardwa
 ![KiCad](https://img.shields.io/badge/KiCad-314CB6?style=for-the-badge&logo=kicad&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+---
+
 - **Microcontrollers & Architecture:** STM32 (ARM Cortex-M), Arduino, ESP8266
 - **Programming Languages:** C / C++ (Bare-Metal & HAL), Python
 - **Communication Protocols:** CAN-Bus 2.0B, RS485, I2C, SPI, UART
@@ -28,9 +34,13 @@ I am a passionate engineering student focused on bridging the gap between hardwa
 - **Hardware & Debugging:** Logic Analyzer Verification, Signal Integrity Management, Hardware/Software debugging (ST-LINK)
 - **PCB & Simulation:** KiCad, Proteus
 
+---
+
 ### ⚡ Highlighted Skills
 > *"A good embedded system relies on power integrity just as much as software efficiency."*
 I specialize in debugging hardware-level timing issues, handling LDO power bottlenecks in transceivers, and implementing strict industrial standards like 120Ω bus termination and common-grounding.
+
+---
 
 ### 📫 How to reach me:
 - **Email:** [yunuskunduz05@gmail.com](mailto:yunuskunduz05@gmail.com)
