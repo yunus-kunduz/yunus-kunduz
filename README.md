@@ -37,8 +37,10 @@ I am a passionate engineering student focused on bridging the gap between hardwa
 ---
 
 ### ⚡ Highlighted Skills
-> *"A good embedded system relies on power integrity just as much as software efficiency."*
-I specialize in debugging hardware-level timing issues, handling LDO power bottlenecks in transceivers, and implementing strict industrial standards like 120Ω bus termination and common-grounding.
+- Optimizing power integrity in embedded systems as much as software efficiency
+- Debugging hardware-level timing issues
+- Managing LDO power bottlenecks in transceivers
+- Implementing strict industrial standards: 120Ω bus termination and common-grounding
 
 ---
 
