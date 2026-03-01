@@ -39,10 +39,10 @@ I am a passionate engineering student focused on bridging the gap between hardwa
 ---
 
 ### ⚡ Highlighted Skills
-🔹Optimizing power integrity in embedded systems as much as software efficiency
-🔹Debugging hardware-level timing issues
-🔹Managing LDO power bottlenecks in transceivers
-🔹Implementing strict industrial standards: 120Ω bus termination and common-grounding
+- 🔹 Optimizing power integrity in embedded systems as much as software efficiency
+- 🔹 Debugging hardware-level timing issues
+- 🔹 Managing LDO power bottlenecks in transceivers
+- 🔹 Implementing strict industrial standards: 120Ω bus termination and common-grounding
 
 ---
 
