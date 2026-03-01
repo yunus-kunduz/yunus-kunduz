@@ -1,6 +1,8 @@
-#              Hi there, I'm Yunus Kunduz 👋
+<h1 align="center">Hi there, I'm Yunus Kunduz 👋</h1>
 
-**Embedded Systems Engineering Candidate | Hardware & Software Co-Design**
+<h3 align="center">Embedded Systems Engineering Candidate | Hardware & Software Co-Design</h3>
+
+<br>
 
 I am a passionate engineering student focused on bridging the gap between hardware constraints and software architecture. My primary areas of interest include **Automotive Electronics, Defense Technologies, and Real-Time Operating Systems (RTOS)**. I enjoy building systems from the ground up, from bare-metal programming and PCB design to industrial communication protocols.
 
