@@ -13,7 +13,7 @@ I am a passionate engineering student focused on bridging the gap between hardwa
 ### 🛠️ Tech Stack & Tools
 - **Microcontrollers & Architecture:** STM32 (ARM Cortex-M), Arduino, ESP8266
 - **Programming Languages:** C / C++ (Bare-Metal & HAL)
-- **Communication Protocols:** CAN-Bus 2.0B, RS485 / RS422, I2C, SPI, UART
+- **Communication Protocols:** CAN-Bus 2.0B, RS485, I2C, SPI, UART
 - **Operating Systems:** FreeRTOS
 - **Hardware & Debugging:** Logic Analyzer Verification, Signal Integrity Management, Hardware/Software debugging (ST-LINK)
 - **PCB & Simulation:** KiCad, Proteus
