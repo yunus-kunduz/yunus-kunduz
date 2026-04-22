@@ -26,7 +26,7 @@ I am a passionate engineering student focused on bridging the gap between hardwa
 
 #### 🔌 Embedded Ecosystem & Protocols
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ARM Cortex-M](https://img.shields.io/badge/ARM%20Cortex--M-0091BD?style=for-the-badge&logo=arm&logoColor=white)
 ![CAN-Bus](https://img.shields.io/badge/CAN--Bus-E74C3C?style=for-the-badge&logo=engine&logoColor=white)
 ![RS485](https://img.shields.io/badge/RS--485-FFD700?style=for-the-badge&logo=connectivity&logoColor=black)
 
@@ -50,7 +50,7 @@ I am a passionate engineering student focused on bridging the gap between hardwa
 - **Hardware & Validation:** KiCad, LTspice, Logic Analyzer, Signal Integrity, HW/SW Debugging (ST-LINK)
 - **Development Tools:** STM32CubeIDE, Git
 - **Quality & Safety Standards:** ISO 26262 (Functional Safety), AS9100
-- 
+  
 ---
 
 ### ⚡ Highlighted Skills
