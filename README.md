@@ -44,12 +44,13 @@ I am a passionate engineering student focused on bridging the gap between hardwa
 ---
 
 - **Microcontrollers & Architecture:** STM32 (ARM Cortex-M, Bare-Metal & HAL/LL)
-- **Programming Languages:** C / C++ (Bare-Metal & HAL), Python (Automation & Scripting)
-- **Communication Protocols:** CAN-Bus 2.0B, RS485, I2C, SPI, UART
-- **Operating Systems:** FreeRTOS
-- **Hardware & Debugging:** Logic Analyzer Verification, Signal Integrity Management, Hardware/Software debugging (ST-LINK)
-- **PCB & Simulation:** KiCad, Proteus
-
+- **Programming Languages:** C / C++ (Bare-Metal & HAL), Assembly, Python (Automation & Scripting)
+- **Communication Protocols:** CAN-Bus 2.0B, RS-485, I2C, SPI, UART
+- **Real-Time Systems:** FreeRTOS
+- **Hardware & Validation:** KiCad, LTspice, Logic Analyzer, Signal Integrity, HW/SW Debugging (ST-LINK)
+- **Development Tools:** STM32CubeIDE, Git
+- **Quality & Safety Standards:** ISO 26262 (Functional Safety), AS9100
+- 
 ---
 
 ### ⚡ Highlighted Skills
